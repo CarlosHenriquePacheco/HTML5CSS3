@@ -1,0 +1,14 @@
+.h1-azul{
+    color: blue;
+}
+
+h1{
+    color: red;
+}
+.h1-vermelho{
+    color: red;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+}
